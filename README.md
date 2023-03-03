@@ -4,7 +4,7 @@ Submitted by: **Manga Mufu Tebit**
 
 **Edward MyStory** is an app that introduces Edward Elrich from Fullmetal Alchemist... [TODO] 
 
-Time spent: **4** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
